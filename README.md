@@ -8,4 +8,4 @@ I focus on **distributed systems and backend development**, and I'm actively con
 - 🌱 Learning: advanced Java and C++
 - 💻 Skills: Java, C++
 
-📫 You can reach me via [email](mailto:your.email@example.com)  
+📫 You can reach me via [2569729045@qq.com]
